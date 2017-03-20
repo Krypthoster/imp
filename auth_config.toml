@@ -1,0 +1,14 @@
+
+[irc]
+	[twitch.config]
+		Title = "Twitch IRC Config"
+		Server = "irc.chat.twitch.tv"
+		Port = [6667]
+		nick = "gravegolem"
+#twitchusername for your bot. -No caps-
+		oauth = "oauth:zsqtcdk9j1yah9irsymz9afj5ak5am"
+#If you have one already it can be found here (https://www.twitch.tv/YOUR-TWITCH-NAME-HERE/dashboard/settings/streamkey ) CHECK HERE FIRST AS MAKING A NEW ONE WILL BREAK ANYTHING WORKING WITH A CURRENT OAUTH TOKEN
+#If you don't already have a working OAUTH token get one here (https://twitchapps.com/tmi/ )
+		Channel = "#gravegolem"
+# channel of the twitch channel bot is modding -Must have #
+
